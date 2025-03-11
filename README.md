@@ -1,29 +1,29 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Dayanis Paola Villalba Benavides 
+
+**Profesión: Técnico en Integración de operaciones logística 
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
 - **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+## 🏢 Experiencia Laboral (2023-2024)
+administradora de una papelería y miscelánea: servicio al cliente, surtido y organización de mercancía.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+## éxito sas (2013 - 2022)
+-empacadora, auxiliar de ventas y auxiliar de domicilios.
 
 ## 🎓 Educación
 ### **Universidad Ejemplo** _(2014 - 2018)_
 - Título obtenido.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Habilidad 1*trabajo en equipo 
+- **Habilidad 2*organización y gestión del tiempo.
+- **Habilidad 3*adaptabilidad y flexibilidad.
 
 ---
 
