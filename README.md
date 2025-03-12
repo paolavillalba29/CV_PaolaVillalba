@@ -11,7 +11,7 @@ Soy un estudiante técnico en Integración de Operaciones en Logística con expe
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa *Manofacturas Eliot _(2024- Actualidad)
+### **Empresa *Manofacturas Eliot _(2025)
 -Tecnico en integracion de operaciones logistica.
 
 ### **Empresa Miscelanea y Papeleria Donde Erik y Marce (2022 - 2024)_
