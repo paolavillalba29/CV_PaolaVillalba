@@ -1,29 +1,28 @@
-# CV_Example
-# Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+# DAYANIS PAOLA VILLALBA BENAVIDES
+**Profesión:*Tecnico en integracion de operaciones logistica
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:
+- **Email:villalbapaola958@gmail .com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Empresa *Manofacturas Eliot _(2024- Actualidad)
+-Tecnico en integracion de operaciones logistica.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Empresa Miscelanea y Papeleria Donde Erik y Marce (2022 - 2024)_
+- Administradora,atencion al cliente y verificacion y organizacion de mercancia.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+#  Sena (2024 - 2026)_
+- Tecnico en integracion de operaciones logistica.
+# Colegio Leon de greiff (2002-2012)
+-Bachiller 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Habilidad 1*Trabajo en eqipo
+- **Habilidad 2*Organizacion y gestion del tiempo
+- **Habilidad 3*Comunicacion efectiva
 
 ---
 
