@@ -1,6 +1,9 @@
+# CV PAOLA VILLALBA
+##  DAYANIS PAOLA VILLALBA BENAVIDES
 
-# DAYANIS PAOLA VILLALBA BENAVIDES
 **Profesión:*Tecnico en integracion de operaciones logistica
+
+Soy un estudiante técnico en Integración de Operaciones en Logística con experiencia práctica en diversos ámbitos del sector logístico, incluyendo gestión de inventarios, surtido de productos, servicio al cliente, ventas y apoyo en la entrega de domicilios. Mi formación me ha permitido desarrollar habilidades clave en la optimización de procesos logísticos y la eficiencia en el manejo de operaciones. Además, poseo un sólido conocimiento en el uso de Excel para análisis de datos y la gestión de información, lo que me ha permitido mejorar la toma de decisiones en cada área en la que he trabajado.
 
 ## 📞 Contacto
 - **Teléfono:
